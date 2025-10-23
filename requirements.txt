@@ -1,7 +1,7 @@
 streamlit
 ploty
 pandas
-plotly.express
+
 
 
 
