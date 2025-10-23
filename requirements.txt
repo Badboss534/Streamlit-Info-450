@@ -1,0 +1,8 @@
+streamlit
+ploty
+os
+pandas
+plotly.express
+
+
+
